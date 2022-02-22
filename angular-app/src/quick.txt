@@ -1,0 +1,3 @@
+- Motication behind React and why not Angular ?
+- What are the current problems with Assets management ? (and we cannot solve with Angular)
+- 
